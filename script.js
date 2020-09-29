@@ -1,6 +1,6 @@
 
 
-
+//selected DOM
 const movieSelector = document.getElementById('movie_select_option');
 let movieSelector_price = +document.getElementById('movie_select_option').value;
 
